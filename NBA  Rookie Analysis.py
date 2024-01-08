@@ -31,7 +31,7 @@ from matplotlib.colors import ListedColormap, Normalize
 Rf = pd.read_csv("./WLV dataset/nba_rookie_data.csv")
 
 
-# In[118]:
+#Cleaning the data
 
 
 Rf.head()
